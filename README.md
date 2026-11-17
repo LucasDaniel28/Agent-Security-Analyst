@@ -122,6 +122,4 @@ O roteiro completo de validação, incluindo o cenário de servidor Ubuntu e os 
 
 > Registre os resultados reais dos testes e adicione capturas de tela próprias. Não declare uma varredura, validação em servidor ou teste externo como concluído sem executar a atividade e guardar evidências.
 
-## Licença
 
-Este projeto é destinado a estudo e uso defensivo em ambientes autorizados. Consulte os termos do projeto-base e mantenha os avisos de licença aplicáveis ao reutilizar seus arquivos.
